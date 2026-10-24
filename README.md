@@ -27,7 +27,7 @@ Learn → Understand → Implement → Break → Troubleshoot → Explain → Do
 | 02 | Dockerized Flask on Minikube | Completed |
 | 03 | ReplicaSet Scaling and Self-Healing | Completed |
 | 04 | Docker Networking with MySQL and Redis | Completed |
-| 05 | Docker Security and Python SDK | Partially completed (AppArmor limitation) |
+| 05 | Docker Security and Python SDK | Completed |
 | 06 | Prometheus and Grafana Monitoring | Completed |
 | 07 | Jenkins Installation and CI Job | Completed |
 | 08 | Jenkins and GitHub Integration | Completed |
@@ -59,13 +59,7 @@ Learn → Understand → Implement → Break → Troubleshoot → Explain → Do
 - Shopping Cart: 3/3 replicas Ready.
 - Both Kubernetes services returned HTTP 200.
 
-## Evaluation Preparation
 
-- [Faculty Evaluation Guide](FACULTY_EVALUATION.md)
-- [Revision Notes](REVISION.md)
-- [Troubleshooting Guide](TROUBLESHOOTING.md)
-- [Progress Tracker](PROGRESS.md)
-- [Roadmap](ROADMAP.md)
 
 - `foundations/` — prerequisite learning and experiments
 - `exercise-01-kubernetes/` — Kubernetes Getting Started
